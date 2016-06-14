@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\00 Developer\00 UPC\Otros trabajos\ArturoMobile\WCFGroup\publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BE.dll">
+      <publishTime>06/07/2016 20:51:35</publishTime>
+    </File>
+    <File Include="bin/BE.pdb">
+      <publishTime>06/07/2016 20:51:35</publishTime>
+    </File>
+    <File Include="bin/DA.dll">
+      <publishTime>06/07/2016 20:51:36</publishTime>
+    </File>
+    <File Include="bin/DA.pdb">
+      <publishTime>06/07/2016 20:51:36</publishTime>
+    </File>
+    <File Include="bin/WCFGroup.dll">
+      <publishTime>06/07/2016 20:51:36</publishTime>
+    </File>
+    <File Include="bin/WCFGroup.pdb">
+      <publishTime>06/07/2016 20:51:36</publishTime>
+    </File>
+    <File Include="bin/WCFGroup.xml">
+      <publishTime>06/07/2016 20:51:36</publishTime>
+    </File>
+    <File Include="Service.svc">
+      <publishTime>06/06/2016 03:01:56</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/06/2016 17:08:04</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
